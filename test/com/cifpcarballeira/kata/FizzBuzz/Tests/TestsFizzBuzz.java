@@ -40,10 +40,10 @@ public class TestsFizzBuzz {
     }
     
     
-    /*@Test
+    @Test
     public void test15devuelveFizzBuzz(){
         FizzBuzz  fb = new FizzBuzz();
         String result = fb.getFizzBuzz(15);
         assertEquals("Fizz Buzz", result);
-    }*/
+    }
 }
